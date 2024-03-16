@@ -34,7 +34,7 @@ public class SumaZaParnost {
 			sumaP+=e;
 		} else sumaN+=e;
 		
-		System.out.println("Suma na parnite ");
+		System.out.println("Suma na parnite broevi e "+sumaP+", a suma na neparni e "+sumaN);
 	}
 
 }
